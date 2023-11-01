@@ -1,0 +1,69 @@
+.about-us-page {
+  padding-top: 82px;
+
+  .main-screen {
+    padding-bottom: 80px;
+  }
+
+  .info-screen {
+    padding-top: 80px;
+    padding-bottom: 90px;
+  }
+
+  .targeting-screen {
+    padding: 80px 0;
+
+    .targeting-title {
+      max-width: 460px;
+    }
+
+    .targeting-link {
+      max-width: 582px;
+    }
+
+    .primary-btn {
+      margin-top: 88px;
+    }
+  }
+
+  .necessary-screen {
+    padding-top: 80px;
+  }
+
+  .teachers-screen {
+    padding-top: 168px;
+    padding-bottom: 80px;
+  }
+
+  .choice-screen {
+    margin-top: 83px;
+
+    .title-choice {
+      max-width: 815px;
+      margin-bottom: 66px;
+    }
+  }
+
+  .gallery-screen {
+    padding-top: 159px;
+    padding-bottom: 80px;
+  }
+
+  .have-questions-screen {
+    padding-top: 93px;
+    padding-bottom: 133px;
+
+    .primary-input.checkbox {
+      flex: 1 0 12px;
+    }
+
+    .h7.title {
+      margin-top: -5px;
+    }
+
+    .primary-btn {
+      margin-top: 57px;
+    }
+  }
+
+}

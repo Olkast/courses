@@ -1,0 +1,9 @@
+node_modules
+dist
+.idea
+.gulp-scss-cache
+app/js/app.min.js
+app/css/app.min.css
+app/*.html
+.package.json.swp
+

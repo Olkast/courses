@@ -1,0 +1,25 @@
+<div class="necessary-screen">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 class="title mb48">
+                    @@title
+                </h2>
+            </div>
+
+            @@for (var i = 0; i < arr.length; i++) {
+            <div class="col-sm-4">
+                <div class="necessary-column">
+                    <div class="df">
+                        <img class="mr18" src=`+arr[i].img+` alt="">
+                        <h2 class="text">`+arr[i].title+`</h2>
+                    </div>
+                    <h3 class="title mt18">
+                        `+arr[i].sub_title+`
+                    </h3>
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+</div>

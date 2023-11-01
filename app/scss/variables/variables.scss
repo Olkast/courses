@@ -1,0 +1,15 @@
+@import '../../../node_modules/bootstrap/scss/functions';
+@import '../../../node_modules/bootstrap/scss/variables';
+
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1168px);
+$grid-gutter-width: 32px;
+
+:root {
+  --transition: all ease .4s;
+
+  --black: #000;
+  --black-light: #0a0914;
+  --white: #fff;
+  --white-light: rgba(255, 255, 255, .87);
+  --blue-light: #21d4fd;
+}
